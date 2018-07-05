@@ -1,2 +1,0 @@
-# MobileShoppe
-Mobile Web-Application 
